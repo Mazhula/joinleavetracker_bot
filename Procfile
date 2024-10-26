@@ -1,1 +1,1 @@
-worker: python JoinLeaveTracker_bot.py
+worker: python joinleavetracker_bot.py
