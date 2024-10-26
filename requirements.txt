@@ -1,0 +1,8 @@
+pyrogram
+telethon
+tgcrypto
+lxml
+urllib3
+python-dotenv
+dropbox
+b2sdk
